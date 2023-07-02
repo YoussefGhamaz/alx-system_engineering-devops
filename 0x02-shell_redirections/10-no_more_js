@@ -1,2 +1,2 @@
 #!/bin/bash
-fimd . -name "*.js" -type f -delete
+fimd .  -name "*.js" -type f -delete
